@@ -742,3 +742,5 @@ document.onkeydown = function (e) {
 window.addEventListener("mousedown", function (e) {
   console.log(e);
 });
+
+console.log(updatePacman);
